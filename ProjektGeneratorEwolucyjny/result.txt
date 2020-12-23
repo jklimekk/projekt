@@ -1,0 +1,8 @@
+STATISTICS: 
+Day: 7
+Average number of animals on map: 16
+Average number of grasses on map: 8
+Average number of children: 0
+Average energy: 43
+Average lifespan: 0
+Most popular genotype: [0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 6, 6, 7, 7, 7]
